@@ -21,4 +21,4 @@ Mobile student introduction page. Pre-work submission for CodePath iOS developme
 
 - [ ] 1. User can tap a button to change the color of the background view
 - [x] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [x] 4. Any stylistic changes that are not default options (Orange theme to match OSU school colors. Alert will show appropriate plural or singular form of "dog" depending on how many dows the user states he owns.)
+- [x] 4. Any stylistic changes that are not default options (Orange theme to match OSU school colors. Alert will show appropriate plural or singular form of "dog" depending on how many dogs the user states that they own.)
